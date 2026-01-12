@@ -2,6 +2,27 @@
 
 All notable changes to `temporary-directory` will be documented in this file
 
+## 2.3.1 - 2026-01-12
+
+### What's Changed
+
+* Bump dependabot/fetch-metadata from 2.2.0 to 2.3.0 by @dependabot[bot] in https://github.com/spatie/temporary-directory/pull/89
+* Bump dependabot/fetch-metadata from 2.3.0 to 2.4.0 by @dependabot[bot] in https://github.com/spatie/temporary-directory/pull/90
+* Update issue template by @AlexVanderbist in https://github.com/spatie/temporary-directory/pull/93
+* ci: add tests for PHP 8.5 by @Chris53897 in https://github.com/spatie/temporary-directory/pull/95
+* feat: add configurable folder permissions by @matteotrubini in https://github.com/spatie/temporary-directory/pull/98
+* Bump actions/cache from 4 to 5 by @dependabot[bot] in https://github.com/spatie/temporary-directory/pull/97
+* Bump actions/checkout from 4 to 6 by @dependabot[bot] in https://github.com/spatie/temporary-directory/pull/96
+* Bump stefanzweifel/git-auto-commit-action from 5 to 7 by @dependabot[bot] in https://github.com/spatie/temporary-directory/pull/94
+
+### New Contributors
+
+* @AlexVanderbist made their first contribution in https://github.com/spatie/temporary-directory/pull/93
+* @Chris53897 made their first contribution in https://github.com/spatie/temporary-directory/pull/95
+* @matteotrubini made their first contribution in https://github.com/spatie/temporary-directory/pull/98
+
+**Full Changelog**: https://github.com/spatie/temporary-directory/compare/2.3.0...2.3.1
+
 ## 2.3.0 - 2025-01-13
 
 ### What's Changed
